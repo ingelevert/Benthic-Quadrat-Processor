@@ -2,7 +2,7 @@
 
 A image processing tool designed for correcting and enhancing benthic quadrant images captured with GoPro cameras underwater. This tool performs lens distortion correction, perspective correction, and color enhancement specifically optimized for marine research applications.
 
-https://github.com//github.com/ingelevert/Benthic-Quadrat-Processor/Timeline_1.gif
+!https://github.com//github.com/ingelevert/Benthic-Quadrat-Processor/Timeline_1.gif
 
 
 ## 🌊 What it does
